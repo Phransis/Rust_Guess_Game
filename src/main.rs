@@ -1,3 +1,6 @@
+//Before this code can run, you must have the Rand crate in your dependencies.
+//You can manually add rand crate in dependencies in the Cargo.toml file
+
 //Importing the input and output library
 use std::io;
 //Importing the RANDOM crate
